@@ -8,3 +8,66 @@
 */
 
 @import url("../werkstatt/style.css");
+
+
+/*Global edits*/
+
+.p-services {
+	font-size: 15px;
+}
+
+.white {
+color: #fff;
+}
+
+
+
+/* blog single page details*/
+.post-detail.style1-detail .post-title .entry-title {
+    color: #222;
+}
+
+.post-detail .post-gallery {
+    background: #fff;
+    padding: 60px 0;
+    margin-bottom: 30px;
+    color: #222;
+}
+
+.post-detail.style1-detail .post-title .post-category {
+    color: #222;
+}
+
+.post-detail.style1-detail .post-title .post-meta {
+    color: #222;
+}
+
+.post-detail.style1-detail .post-title .post-meta a {
+    color: #222;
+}
+
+.post-detail.style1-detail .post-title .post-category a {
+    color: #222;
+}
+
+.blog-image-width {
+	width: 100%;
+	height: auto;
+}
+
+.post-detail .post-gallery .parallax_bg {
+	opacity: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
