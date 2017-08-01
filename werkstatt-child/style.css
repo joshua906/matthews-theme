@@ -59,11 +59,19 @@ color: #fff;
 	opacity: 0;
 }
 
+.respond-container {
+	background-color: #fff;
+}
 
 
 
 
+/* footer text color */
 
+.textwidget p {
+	color:#fff;
+	font-size: 12px;
+}
 
 
 
